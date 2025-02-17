@@ -6,7 +6,7 @@
 This collection of sample applications demonstrates various integration patterns between Heroku and Salesforce that take advantage of our Heorku Integration and Heroku Eventing features.  They cover key use cases such as accessing Salesforce APIs for data exchange and automation (including efficient bulk data handling), extending Salesforce functionality by enabling Apex, Flow, and Agentforce to interact with Heroku apps, and scaling batch jobs by delegating compute-intensive tasks to Heroku Workers.  Furthermore, the samples illustrate how to leverage eventing for automation and communication, including triggering jobs and notifying users via custom notifications, showcasing the integration with low-code tools like Salesforce Flow.
 
 > [!NOTE]
-> - Follow this repository for updates as we continue to expand the samples and languages they are availble in.
+> - Follow this repository for updates as we expand the samples and languages they are availble in.
 > - It is recommended that you watch these two videos relating to the pilots, [video 1](https://www.youtube.com/watch?v=T5kOGNuTCLE) and [video 2](https://www.youtube.com/watch?v=Pvg1m295WA8) (applies to sample 4 only). 
 
 | Sample | What it covers? |
