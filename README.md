@@ -1,7 +1,7 @@
-# Heroku Integration and Eventing Samples (Pilot)
+# Heroku AppLink and Eventing Samples (Pilot)
 
 > [!IMPORTANT]
-> For use with the **Heroku Integration** and **Heroku Eventing** pilots only. For more information and signup please review [Getting Started with Heroku Integration (Pilot)](https://devcenter.heroku.com/articles/getting-started-heroku-integration) and [Getting Started with the Heroku Events (Pilot)](https://devcenter.heroku.com/articles/getting-started-heroku-events) (applies to sample 4 only).
+> For use with the **Heroku AppLink** and **Heroku Eventing** pilots only. For more information and signup please review [Getting Started with Heroku Integration (Pilot)](https://devcenter.heroku.com/articles/getting-started-heroku-integration) and [Getting Started with the Heroku Events (Pilot)](https://devcenter.heroku.com/articles/getting-started-heroku-events) (applies to sample 4 only).
 
 This collection of sample applications demonstrates various integration patterns between Heroku and Salesforce that take advantage of our Heorku Integration and Heroku Eventing features.  They cover key use cases such as accessing Salesforce APIs for data exchange and automation (including efficient bulk data handling), extending Salesforce functionality by enabling Apex, Flow, and Agentforce to interact with Heroku apps, and scaling batch jobs by delegating compute-intensive tasks to Heroku Workers.  Furthermore, the samples illustrate how to leverage eventing for automation and communication, including triggering jobs and notifying users via custom notifications, showcasing the integration with low-code tools like Salesforce Flow.
 
