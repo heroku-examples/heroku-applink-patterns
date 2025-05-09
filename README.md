@@ -1,4 +1,4 @@
-# Heroku AppLink and Eventing Integration Patterns (Pilot)
+# Heroku AppLink and Eventing Integration Patterns
 
 > [!IMPORTANT]
 > For use with the **Heroku AppLink** and **Heroku Eventing** pilots only. For more information and signup please review [Getting Started with Heroku Integration (Pilot)](https://devcenter.heroku.com/articles/getting-started-heroku-integration) and [Getting Started with the Heroku Events (Pilot)](https://devcenter.heroku.com/articles/getting-started-heroku-events) (applies to sample 4 only).
